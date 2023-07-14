@@ -3,15 +3,14 @@ Docs about Gardening 🌴🌴🌴🌴 by Rustaceans 🦀🦀🦀🦀
 
 **Folder structure**
 Root
-|
-|
----- basics: Rust scripts customized and selected from [Rust Docs](https://doc.rust-lang.org/rust-by-example/hello/print/print_debug.html)
-|
-|
----- concepts
-|
-|
----- implementations
-|
-|
----- case studies
+
+
+Basics: Rust scripts customized and selected from [Rust Docs](https://doc.rust-lang.org/rust-by-example/hello/print/print_debug.html)
+
+Concepts:
+
+
+Implementations:
+
+
+Case studies:
