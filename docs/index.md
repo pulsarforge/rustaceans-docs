@@ -4,10 +4,9 @@ pageType: home
 hero:
   name: Rustacean Docs
   text: Docs about Rust Gardening
-  tagline: Rustacean Docs tagline
   actions:
     - theme: brand
-      text: Quick Start
+      text: Dev Guides
       link: /guide/
     - theme: alt
       text: Github
